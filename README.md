@@ -1,3 +1,28 @@
+# Buy Fruit
+
+Buy Fruit is a simple React application that enable user to order just one type of fruit. All the data used in the app is dummy.
+
+I built this to try [Cypress](https://www.cypress.io/) testing framework. It was fun after realize how easy it is to use in React.Js project.
+
+## How to test
+
+- Clone this repository
+
+- Open your terminal / cmd
+
+- Install dependencies
+  type `npm i`
+
+- Run this project
+  type `npm start`
+
+- Open Cypress
+  type `npm run cypress:open`
+
+- Run all specs test file from Cypress dashboard
+
+- Done
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
